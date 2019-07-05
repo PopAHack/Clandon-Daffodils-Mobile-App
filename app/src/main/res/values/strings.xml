@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clandon Daffodils</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_comments">No Comments</string>
+    <string name="comments">Comments:</string>
+    <string name="inspect">Inspect</string>
+    <string name="insert">Insert</string>
+    <string name="Clear">Clear</string>
+
+</resources>
